@@ -13,9 +13,8 @@
 <hr style="border:3px solid black"> </hr>
 
 # Project Description
-> ##### The data is about Asteroids - NeoWs.
-> "NeoWs (Near Earth Object Web Service) is a RESTful web service for near earth Asteroid information. With NeoWs a user can: search for Asteroids based on > their closest approach date to Earth, lookup a specific Asteroid with its NASA JPL small body id, as well as browse the overall data-set."  
-- https://www.kaggle.com/datasets/shrutimehta/nasa-asteroids-classification
+#### "The data is about Asteroids" - NeoWs.
+> "NeoWs (Near Earth Object Web Service) is a RESTful web service for near earth Asteroid information. With NeoWs a user can: search for Asteroids based on > their closest approach date to Earth, lookup a specific Asteroid with its NASA JPL small body id, as well as browse the overall data-set."  - https://www.kaggle.com/datasets/shrutimehta/nasa-asteroids-classification
 
 ### Overview & Plan:
 > I will be taking a look at the factors that might be useful to identify an asteroid as potentially hazardous or not. I will also be analyzing the classification power of those remaining factors in the absence of absolute magnitude and minimum orbit intersection values.
